@@ -1,2 +1,2 @@
-# Web_final
-Web app about university
+# University clubs
+Web app about university clubs
