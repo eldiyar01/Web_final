@@ -24,7 +24,7 @@ https://drive.google.com/folderview?id=1z67jmrSIdi-2JkOz27vhZFikX5fM5Yoi
 - Erkinbek Saidilaev
 </br>
 </br>
-**Screenshots of main page:**
+Screenshots of main page:
 
 ![photo_2022-01-06_20-58-51](https://user-images.githubusercontent.com/73142059/148402829-e029245e-18bd-454c-82c3-7d95316c4747.jpg)
 ![image_2022-01-06_19-43-30](https://user-images.githubusercontent.com/73142059/148402845-518747af-fd3a-4eae-a31a-514ab633686e.png)
