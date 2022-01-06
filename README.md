@@ -21,7 +21,7 @@ https://drive.google.com/folderview?id=1z67jmrSIdi-2JkOz27vhZFikX5fM5Yoi
 **Team members:**
 </br>
 - Eldiiar Abdyldaev (eldiyar01)
-- Erkinbek Saidilaev
+- Erkinbek Saidilaev (ballboypro)
 </br>
 </br>
 Screenshots of main page:
